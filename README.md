@@ -1,6 +1,7 @@
  # WPF静态资源与动态资源示例
 
 本项目是一个基于.NET 8.0和WPF框架的MVVM架构应用程序，用于演示WPF中静态资源(StaticResource)和动态资源(DynamicResource)的区别和使用方法。
+![image](https://github.com/user-attachments/assets/58fca4cb-dc96-4965-a62b-cbf3c01785c2)
 
 ## 项目概述
 
@@ -102,7 +103,6 @@ ThemeDemo/
 ## 学习资源
 
 要深入了解WPF中的资源系统，请参考：
-- [WPF资源系统官方文档](https://docs.microsoft.com/zh-cn/dotnet/desktop/wpf/systems/xaml-resources-and-resource-dictionaries)
 - [StaticResource标记扩展](https://docs.microsoft.com/zh-cn/dotnet/desktop/wpf/advanced/staticresource-markup-extension)
 - [DynamicResource标记扩展](https://docs.microsoft.com/zh-cn/dotnet/desktop/wpf/advanced/dynamicresource-markup-extension)
 
